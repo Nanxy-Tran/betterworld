@@ -9,7 +9,7 @@ import { Head } from '@inertiajs/vue3';
     </Head>
     <div class="flex min-h-screen flex-col items-center p-6 lg:justify-center lg:p-8 bg-amber-50">
         <div class="block text-black">
-            Hello, It's nanxy
+            Hello, It's Nanxy
         </div>
     </div>
 </template>
