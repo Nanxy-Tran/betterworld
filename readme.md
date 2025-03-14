@@ -13,11 +13,11 @@
 </h3>
 
 <p align="center">
-  <a href="https://itunes.apple.com/us/app/BetterWon/id1251245162?mt=8">
+  <a>
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </a>
 
-  <a href="https://play.google.com/store/apps/details?id=com.BetterWon">
+  <a>
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
   </a>
 </p>
@@ -27,8 +27,6 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Tech stacks](#tech-stacks)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
 Sell, buy, auction your Arts seamlessly with us, the best platform for artist around the world
@@ -44,7 +42,7 @@ A few of the things you can do with BetterWon:
 * Easily search for any buyer and services
 
 <p align="center">
-  <img src = "https://cdn.pixabay.com/photo/2017/03/13/17/26/ecommerce-2140604_1280.jpg" width=1024>
+  <img src="https://cdn.pixabay.com/photo/2016/03/22/09/08/online-store-1272390_1280.png" width=1024 alt="merchants">
 </p>
 
 ## Contributors
